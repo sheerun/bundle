@@ -1,3 +1,3 @@
 # bundle
 
-Dependency-less "upgradeable" tool for bundling operating system with `Bundlefile`
+"Upgradeable" python3 script for creating your own operating system, one layer at a time.
