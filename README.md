@@ -1,2 +1,3 @@
 # bundle
-Dependency-less python script for configuring operating system
+
+Dependency-less python tool for bundling operating system to user needs
